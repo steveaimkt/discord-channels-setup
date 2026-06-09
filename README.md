@@ -21,8 +21,10 @@ git clone https://github.com/steveaimkt/discord-channels-setup.git `
 
 → Claude Code 를 **새로 켜고** 채팅창에 입력:
 ```
-디스코드 채널 세팅
+디스코드 세팅하자
 ```
+> 또는 `디스코드 채널 세팅` · `디스코드 채널 설치` 도 동일하게 동작.
+> 입력하면 봇이 **전체 구조(11 STEP 맵 + 결과 미리보기)** 를 먼저 보여준 뒤 단계별 진행합니다.
 
 ## 무엇을 해주나
 
